@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing.View", "Racing.View\Racing.View.csproj", "{F57FA9A6-BAFC-46FF-88D2-94FB32350C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing.Domain", "Racing.Domain\Racing.Domain.csproj", "{145098D6-8F29-43E0-B8EE-F35D3E090A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Racing.Infrastructure", "Racing.Infrastructure\Racing.Infrastructure.csproj", "{C3CE21A2-D8CC-4B89-90AA-150CC0C6D995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F57FA9A6-BAFC-46FF-88D2-94FB32350C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57FA9A6-BAFC-46FF-88D2-94FB32350C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57FA9A6-BAFC-46FF-88D2-94FB32350C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57FA9A6-BAFC-46FF-88D2-94FB32350C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145098D6-8F29-43E0-B8EE-F35D3E090A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145098D6-8F29-43E0-B8EE-F35D3E090A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145098D6-8F29-43E0-B8EE-F35D3E090A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145098D6-8F29-43E0-B8EE-F35D3E090A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CE21A2-D8CC-4B89-90AA-150CC0C6D995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CE21A2-D8CC-4B89-90AA-150CC0C6D995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CE21A2-D8CC-4B89-90AA-150CC0C6D995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CE21A2-D8CC-4B89-90AA-150CC0C6D995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
